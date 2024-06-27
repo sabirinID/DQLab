@@ -15,4 +15,8 @@ This is a repository for storing and sharing data resulting from working on proj
 
 ## Courses
 
+1. SQL
+2. R
+3. Python
+
 ## References
